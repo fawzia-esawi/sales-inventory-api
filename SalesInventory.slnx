@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="SalesInventory.Api/SalesInventory.Api.csproj" />
+</Solution>
